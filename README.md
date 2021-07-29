@@ -8,7 +8,7 @@ Reference: https://docs.oceanprotocol.com/tutorials/compute-to-data/
 ## Requirements
 
 - functioning internet-accessable provider (ours was https://provider.mpowered.io)
-- machine capable of running compute (we used a machine with 8 CPUs, 16 GB Ram, and 100GB SSD and very fast internet connection)
+- machine capable of running compute (we used a machine with 8 CPUs, 16 GB Ram, and 100GB SSD and fast internet connection)
 - Ubuntu 20.04
 - SSH bridge (explained later)
 
