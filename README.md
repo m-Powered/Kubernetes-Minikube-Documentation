@@ -3,7 +3,7 @@ Provide examples and code documentation in order to help other developer teams b
 
 Here is a video that shows you the steps:
 
-<iframe src="https://player.vimeo.com/video/580934725" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+[![mPowered](https://mpowered.io/assets/images/logo.png)](https://player.vimeo.com/video/580934725)
 
 # Set Up a Compute-to-Data Environment with remote Minikube
 
