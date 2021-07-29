@@ -199,4 +199,4 @@ kubectl create -f operator-service/kubernetes/postgres-configmap.yaml
 
 Wait until the compute operator pod is running.
 
-Now your remote C2D minikube can accept and process jobs.
+Now your remote C2D minikube can accept and process jobs. If you are an SME and would like to have bespoke implementations of C2D, please send us an email at hello[at]mpowered[dot]io
