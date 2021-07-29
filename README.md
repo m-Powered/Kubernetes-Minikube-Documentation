@@ -1,9 +1,9 @@
-# Kubernetes-Minikube-Documentation for Milestone #2 (Ocean DAO Round 7)
-Provide examples and code documentation in order to help other developer teams build access policies in building and deploying their own kubernetes minikube. We have completed Milestone #2 and the instructions are as follows. :sparkles: Enjoy coding and developing!
+# Kubernetes-Minikube-Documentation for Milestone #:two: (Ocean DAO Round :seven:)
+Provide examples and code documentation in order to help other developer teams build access policies in building and deploying their own kubernetes minikube. 
 
-Here is a video that shows you the steps:
+:boom: :loudspeaker:We have completed Milestone #:two: and the instructions are as follows. :sparkles: Enjoy coding and continue developing :octocat:!!! 
 
-[![mPowered](https://mpowered.io/assets/images/logo.png)](https://player.vimeo.com/video/580934725)
+Here is a :movie_camera: <a href="https://vimeo.com/580934725" target="_blank">Video</a> that shows you the steps.
 
 # Set Up a Compute-to-Data Environment with remote Minikube
 
