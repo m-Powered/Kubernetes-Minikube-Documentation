@@ -5,14 +5,14 @@ Provide examples and code documentation in order to help other developer teams b
 
 Here is a :movie_camera: <a href="https://vimeo.com/580934725" target="_blank">Video</a> that shows you the steps.
 
-# Set Up a Compute-to-Data Environment with remote Minikube
+# Set Up a Compute-to-Data Environment with remote Minikube and an SSH bridge :closed_lock_with_key: for improved security
 
 Reference: https://docs.oceanprotocol.com/tutorials/compute-to-data/
 
 ## Requirements
 
 - functioning internet-accessable provider (ours was https://provider.mpowered.io)
-- machine capable of running compute (we used a machine with 8 CPUs, 16 GB Ram, and 100GB SSD and fast internet connection)
+- machine capable of running compute (we used a machine with 8 CPUs, 16 GB Ram, 100GB SSD and fast internet connection)
 - Ubuntu 20.04
 - SSH bridge (explained later)
 
