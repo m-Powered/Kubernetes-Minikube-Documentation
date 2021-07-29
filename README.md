@@ -5,7 +5,7 @@ Provide examples and code documentation in order to help other developer teams b
 
 Here is a :movie_camera: <a href="https://vimeo.com/580934725" target="_blank">Video</a> that shows you the steps.
 
-# Set Up a Compute-to-Data Environment with remote Minikube and added an SSH bridge :closed_lock_with_key: for improved security
+# Set Up a Compute-to-Data Environment with remote Minikube and added an SSH bridge:bridge_at_night: for improved security:closed_lock_with_key:
 
 Reference: https://docs.oceanprotocol.com/tutorials/compute-to-data/
 
